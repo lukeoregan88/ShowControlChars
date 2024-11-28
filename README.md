@@ -2,6 +2,8 @@
 
 A Chrome extension that allows users to toggle the visibility of control characters (ASCII 0-31) in webpage text. Control characters are displayed as red highlights with a "␃" symbol.
 
+_"Have you ever had an issue where someone sent you a webdesign, you copy the text and then you get these unexplained hidden characters which appear in certain browsers. Well... they are called control characters and this extension is for you!"_
+
 ## Features
 
 - Toggle control characters visibility with a single click
