@@ -31,11 +31,11 @@ _"Have you ever had an issue where someone sent you a webdesign, you copy the te
 
 ## Files Structure
 
-control-characters-viewer/
-├── manifest.json # Extension configuration
-├── popup.html # Popup interface
-├── popup.js # Popup functionality
-├── content.js # Main extension logic
+control-characters-viewer/  
+├── manifest.json # Extension configuration  
+├── popup.html # Popup interface  
+├── popup.js # Popup functionality  
+├── content.js # Main extension logic  
 └── LICENSE # GPL-3.0 License file
 
 ## License
